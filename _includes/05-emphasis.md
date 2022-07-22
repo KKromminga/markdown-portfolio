@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# CANDY 
+
+Below is a _list_ of my favorite **candies**:
+
+## Brands
+- Cadbury
+- Hersheys
+
+## Types
+- Chocolate
+- Fruit
+
